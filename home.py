@@ -18,7 +18,7 @@ def home_section():
 
     # Add an image in the first column
     with col1:
-        st.image("chatbot\Image.jpg.webp", use_container_width=True)  # Updated parameter
+        st.image("Image.jpg.webp", use_container_width=True)  # Updated parameter
 
     # Add the title in the second column
     with col2:
