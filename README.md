@@ -33,7 +33,7 @@ Authentication: bcrypt
 
 "Recommend South movies" → Suggests regional content.
 
-6️⃣ Access the Hosted Version:- No need to run locally? Visit the live app: 👉 https://moviesbott.streamlit.app/
+6️⃣ Access the Hosted Version:- No need to run locally? Visit the live app: 👉 https://chatbotpy-7so5vpqjccxuhxxbthe6tg.streamlit.app/
 
 🤝 Contributions:- Feel free to fork and contribute to this project. Pull requests are always welcome!
 
